@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-groq
+duckduckgo-search
+wikipedia-api
+# wolframalpha # Uncomment if you actually use the Wolfram Alpha tool
+# pyperclip    # Uncomment if you actually use the clipboard tool
+Pillow
+pandas
+numpy
